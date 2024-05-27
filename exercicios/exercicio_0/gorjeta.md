@@ -1,8 +1,8 @@
 # Calcular gorjeta
 
-Voce foi contratado(a) pelo melhor restaurante do Rio de Janeiro para consertar uma calculadora de gorjeta.
+Você foi contratado(a) pelo melhor restaurante do Rio de Janeiro para consertar uma calculadora de gorjeta.
 
-A calculadora atual do restaurante nao esta funcionando, segue abaixo o codigo atual:
+A calculadora atual do restaurante não está funcionando, segue abaixo o código atual:
 
 ```python
 def main():
@@ -23,12 +23,12 @@ def porcentagem_em_float(p):
 main()
 ```
 
-Como podem ver, duas funcoes nao foram implementadas: `conta_em_decimal` e `porcentagem`.
+Como podem ver, duas funções não foram implementadas: `conta_em_float` e `porcentagem_em_float`.
 
-- `conta_em_decimal`: deve aceitar uma `string` (texto) como input (formatada como `$##.##`). Remova o cifrao da string `$`, e retorne (`return`) o valor como decimal (`float`). Exemplo: um input de `$50.00` deve retornar `50.0`.
+- `conta_em_float`: deve aceitar uma `string` (texto) como input (formatada como `$##.##`). Remova o cifrão da string `$`, e retorne (`return`) o valor como decimal (`float`). Exemplo: um input de `$50.00` deve retornar `50.0`.
 - `porcentagem_em_float`: deve aceitar uma `string` (texto) como input (formatado como `##%`). Remova o sinal de porcentagem `%`, e retorne a porcentagem como um decimal (`float`). Exemplo: um input de `15%` deve retornar `0.15`.
 
-Pode-se presumir que os usuarios colocarao dados ja validados. 
+Pode-se presumir que os usuários colocarão dados já validados.
 
 ## Demo
 

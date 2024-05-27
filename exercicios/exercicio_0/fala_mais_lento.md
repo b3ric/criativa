@@ -1,9 +1,9 @@
-# Ta falando muito rapido
+# Tá falando muito rápido
 
 Num arquivo chamado `devagar.py`, implemente um programa que:
 
-1. Peca ao usuario um input de texto (string).
-2. Imprima na tela o mesmo input, so que trocando cada espaco por `...`
+- Peça ao usuário um input de texto (string).
+2. Imprima na tela o mesmo input, só que trocando cada espaço por `...`
 
 ## Exemplo:
 

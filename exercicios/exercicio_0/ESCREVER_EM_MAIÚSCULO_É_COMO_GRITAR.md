@@ -2,16 +2,16 @@
 
 Num arquivo chamado `falabaixo.py`, escreva um programa em Python que: 
 
-1. Peca ao usuario um input de texto (string).
-2. Imprima na tela o texto com todas as letras em minusculo.
-3. Acentos, pontuacoes, e espacos em branco mantem-se igual.
+- Peça ao usuário um input de texto (`string`).
+- Imprima na tela o texto com todas as letras em minúsculo.
+- Acentos, pontuações e espaços em branco mantêm-se iguais.
 
 ## Exemplo:
 
 ```
 $ python3 falabaixo.py
-Digite o texto em maiuscula: CHEGOU O CARRO DO GAS!
-chegou o carro do gas!
+Digite o texto em maiúsculas: CHEGOU O CARRO DO GÁS!
+chegou o carro do gás!
 ```
 
 ## Como testar: 
