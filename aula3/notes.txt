@@ -1,0 +1,93 @@
+- while
+    imprimir miau 3 vezes - gato.py
+    True or False
+    3 miau
+    contando
+    i e ir baixando o i=3
+    mostrar um loop infinito
+    mostrar com --i
+    como a gente contaria pra cima? 
+    mostrar o i += 1
+    
+
+- for
+    diferente tipo de loop
+    introduzir conceito de LIST data type
+    relembrar os outros data types que ja vimos
+    o que e uma list
+    
+    for i in [0,1,2]:
+        print("miau")
+    
+    menos fanfarra que o while 
+    o while era muito mecanico por causa do i
+
+    porque isso nao e a melhor forma? 
+
+    se eu quiser imprimir 100 vezes
+
+    introduzir range
+
+    for i in range(3):
+        print("miau")
+    
+    nesse modelo e facil print 100 vezes
+
+    da pra melhorar ainda mais
+
+    for _ in range(3):
+        print("miau")
+    
+    economia....
+
+
+    VALIDANDO 'n'
+
+    partindo da premisa que 'n' eh numero de vezes miau, queremos que seja > 0
+    validacao primeiro modo yandere (se n > 0)
+
+    implementar while True, primeiro com continue break, dps so break
+    explicar o break
+    dai agora sim, implementa o print no range n
+
+
+    ABSTRAIR
+
+    def main():
+        miau(3)
+    
+    # fazer implementacao completa, ver imagem
+    ---------------------------
+    NOVO PROG, hogwarts.py
+
+    students = [...]
+
+    loop over them using direct index first, explain indices
+    porque esse approach e ruim? 
+
+    mostrar com for loop
+
+    porque nao posso usar _ aqui
+
+    MOSTRAR approach com len()
+    also show print(i, student[i])
+
+
+- dict
+    definir, porque e melhor que uma lista? 
+    alunos e houses com 2 listas
+    e se eu quisesse mais um parametro, ou e se a lista mudasse de ordem? 
+    
+    mostrar o approach com lista e depois com dict
+    diferenca de indexar em list e dict
+    Questao de tempo (big-O) entre lista
+
+    loop no dict
+    primeiro:  for student in students
+    depois: 
+    for student in students:
+        print(student, students[student])
+    
+
+- nested loops (loops aninhados)
+    example, invent something
