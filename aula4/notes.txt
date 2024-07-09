@@ -1,0 +1,37 @@
+SyntaxError example
+    - print("hello world)
+    - i have to fix the code
+
+Runtime error
+    - normal operation - ex user input
+    - number.py
+    - pedir input de x int
+    - print(f"x is {x}")
+    - Introduzir ValueError (RunTime)
+    - o codigo esta ok
+    - ERROR HANDLING
+    - try / except 
+    - elegancia, intrucoes
+
+    - NameError / try except else 
+
+Reprompting 
+    - como que eu prompt again,again,again?
+
+Explorar/Hackear a linguagem..
+    - break
+
+get_int()
+    - run get int
+    - abstracao de logica
+    - melhorar implementacao de get int
+    - melhorar ainda mais (perg a eles)
+    - usar pass
+
+fazer elegante/sorteio
+
+raise
+
+
+
+- Falar de custom exceptions that can be raised, eg: Auth
