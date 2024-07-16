@@ -30,7 +30,7 @@ get_int()
 
 fazer elegante/sorteio
 
-raise
+raise, exemplos de vendors que raise, auth..
 
 
 
